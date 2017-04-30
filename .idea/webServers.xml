@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="62dd79d0-3b99-486e-9c78-664c0d30ad67" name="bandao_vue" url="http://47.93.113.56">
+        <fileTransfer host="47.93.113.56" port="22" accessType="SFTP" password="dfe9dfd3dfc0dfc2df98df9adf9bdf9c" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
